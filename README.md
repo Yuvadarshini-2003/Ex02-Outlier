@@ -37,11 +37,6 @@ Remove the outliers.
 Plot the datas using Box Plot.
 
 # PROGRAM
-
-```
-Developed  by       : KERSOAN P 
-Registration Number : 212221230050
-```
 ```
 import pandas as ps
 import numpy as np
